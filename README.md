@@ -201,7 +201,7 @@ Follow these steps to run the project locally.
 ## 1️⃣ Clone the Repository
 
 ```
-git clone https://github.com/your-username/NIDS_Project.git
+git clone https://github.com/alwinajai/AI-ML-Based-NIDS-Network-Intrusion-Detection-System-.git
 cd NIDS_Project
 ```
 
