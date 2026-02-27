@@ -230,11 +230,25 @@ pip install scapy flet scikit-learn xgboost matplotlib reportlab pandas numpy
 ## 4️⃣ Run the Application
 
 1. Data Should Be Pre processed
-2. Model Should Be Trained
-3. Configure Autoencoder
-4. Run the GUI code
+```
+#in the virtual enviornment enabled
+python src\new_preprocess.py
 
----
+```
+2. Model Should Be Trained
+```
+python src\train_autoencoder.py
+```
+   
+3. Configure Autoencoder
+```
+python src\optimized_autoencoder_config.py
+```
+  
+6. Run the GUI code
+```
+python src\gui2.py
+```
 
 # Applications
 
