@@ -14,9 +14,8 @@ The system integrates:
 2. Unsupervised Anomaly Detection (Autoencoder)
 3. Phishing URL Detection
 4. Real-time Packet Capture (Scapy)
-5. Threat Intelligence Mapping (CVSS & CVE)
-6. Flet-based Desktop Dashboard
-7. Automated PDF Session Reporting
+5. Flet-based Desktop Dashboard
+6. Automated PDF Session Reporting
 
 ---
 
